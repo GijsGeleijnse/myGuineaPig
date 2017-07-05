@@ -1,0 +1,11 @@
+## Guinea Pig Extravaganza
+
+This simple shiny app lets you understand much more of the effect of Vitamin C on the tooth growth in Guinea Pigs. Using the ToothGrowth data set, we let use choose a subset of the guinea pigs (those who got Vitamin C and those who received the other supplement). So, it's so simple, we plot tooth length and dosage for you.
+
+# Even more excitement
+
+You can even indicate if you like pink. If you do, your plot will be tailored to your color preference.
+
+# Submit
+
+The submit button will do the trick. Go and play.. and have tons of fun! 
